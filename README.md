@@ -18,6 +18,24 @@ A simple, responsive, and secure College Management & Student Portal built using
 
 ---
 
+## 📸 Website Preview & Screenshots
+
+<!-- Add your website screenshots to the screenshots/ folder with these names -->
+
+<p align="center">
+  <img src="screenshots/landing_page.png" alt="SmartCampus+ Main Preview" width="100%" />
+</p>
+
+| 🏠 Landing Page | 📊 Student Dashboard |
+| :---: | :---: |
+| <img src="screenshots/landing_page.png" width="400" alt="Landing Page Preview" /> | <img src="screenshots/dashboard.png" width="400" alt="Dashboard Preview" /> |
+
+| 🔑 Login Page | 📝 Registration Page |
+| :---: | :---: |
+| <img src="screenshots/login.png" width="400" alt="Login Page Preview" /> | <img src="screenshots/registration.png" width="400" alt="Registration Page Preview" /> |
+
+---
+
 ## 🚀 Key Features
 
 - **Home & Landing Page:** Clean UI with video banner and course info cards.
@@ -66,6 +84,11 @@ college_ms/
 ├── docs/                     # 📥 Put your PDF report & PPT slides here
 │   ├── documentation.pdf     # Project Documentation
 │   └── presentation.pptx     # Project Presentation (PPT)
+├── screenshots/              # 📸 Put your website photos/screenshots here
+│   ├── landing_page.png      # Home / Landing page preview
+│   ├── login.png             # Login page preview
+│   ├── registration.png      # Registration page preview
+│   └── dashboard.png         # Student dashboard preview
 ├── images/                   # Media assets & icons
 │   ├── classroom-bg.mp4
 │   ├── course.png
